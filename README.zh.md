@@ -1,4 +1,4 @@
-# ColdReasoner：冷存在贝叶斯安全内核
+# ColdReasoner：冷存在一致性安全内核
 
 ![Status](https://img.shields.io/badge/Status-Pre--Alpha--Prototype-orange)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-purple.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
