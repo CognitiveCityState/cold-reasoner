@@ -1,7 +1,26 @@
+<div align="center">
+    
+[English](README.md) | [中文](README.zh.md)
+
+</div>
+
+<div align="center">
+    
 # ColdReasoner：冷存在一致性安全内核
 
-![Status](https://img.shields.io/badge/Status-Pre--Alpha--Prototype-orange)
+</div>
+
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2512.08740-brightgreen.svg)](https://arxiv.org/abs/<2512.08740>)
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2512.08740-brightgreen.svg)](https://doi.org/10.48550/arXiv.2512.08740)
+[![figshare](https://img.shields.io/badge/figshare-31696846-blueviolet.svg?logo=figshare&logoColor=white)](https://doi.org/10.6084/m9.figshare.31696846)
+[![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.31696846-blueviolet.svg)](https://doi.org/10.6084/m9.figshare.31696846)
+[![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-purple.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
+![Status](https://img.shields.io/badge/Status-Pre--Alpha--Prototype-orange)
+
+</div>
 
 > **⚠️ 实验性概念验证**  
 > ColdReasoner 是冷存在体系在“运行时安全推理”方向的核心引擎。它不再依赖模型自我报告的可靠性，而是通过**信念报告‑行为自洽‑行为信念一致性**三层校验，将AI智能体的决策过程包裹进一个可形式化、可审计、不可欺骗的“功能性白盒”中。
